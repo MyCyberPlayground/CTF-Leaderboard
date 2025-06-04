@@ -1,6 +1,6 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/4/2025, 1:09:20 PM UTC  
+**Last Updated:** 6/4/2025, 1:11:11 PM UTC  
 **Total Participants:** 0  
 **Active Categories:** 0  
 **All Challenges Active:** ✅ Simultaneously  
@@ -17,12 +17,13 @@
 
 ## 📈 Recent Activity (Last 10)
 
-- **akame** earned 0 points (0 flags) in Unknown - *37m ago*
+- **akame** earned 0 points (0 flags) in Unknown - *just now*
+- **akame** earned 0 points (0 flags) in Unknown - *38m ago*
 
 ## 📊 Overall Statistics
 
 - **Total Flags Available:** 0
-- **Total Submissions:** 1
+- **Total Submissions:** 2
 - **Average Score:** 0 points
 - **Highest Score:** 0 points
 - **Overall Completion Rate:** 0%
