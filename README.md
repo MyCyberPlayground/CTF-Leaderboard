@@ -1,6 +1,6 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/4/2025, 1:32:38 PM UTC  
+**Last Updated:** 6/4/2025, 1:33:10 PM UTC  
 **Total Participants:** 1  
 **Active Categories:** 0  
 **All Challenges Active:** ✅ Simultaneously  
@@ -9,7 +9,7 @@
 
 | Rank | Player | Points | Flags | Specialization | Last Active |
 |------|--------|--------|-------|---------------|-------------|
-| 1 | **akame** | 2150 | 6 | web-security | just now |
+| 1 | **akame** | 2150 | 6 | web-security | 1m ago |
 
 ## 🎯 Categories
 
@@ -17,8 +17,8 @@
 
 ## 📈 Recent Activity (Last 10)
 
-- **akame** earned 2150 points (6 flags) in web-security - *just now*
-- **akame** earned 0 points (0 flags) in Unknown - *11m ago*
+- **akame** earned 2150 points (6 flags) in web-security - *1m ago*
+- **akame** earned 0 points (0 flags) in Unknown - *12m ago*
 - **akame** earned 0 points (0 flags) in Unknown - *22m ago*
 - **akame** earned 0 points (0 flags) in Unknown - *1h ago*
 
