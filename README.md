@@ -1,6 +1,6 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/5/2025, 4:13:13 PM UTC  
+**Last Updated:** 6/5/2025, 4:45:28 PM UTC  
 **Total Participants:** 1  
 **Active Categories:** 0  
 **All Challenges Active:** ✅ Simultaneously  
@@ -34,4 +34,4 @@
 - **Active (7d):** 1 participants
 
 ---
-*🤖 Auto-updated every 30 minutes | 🚩 [Submit Flags](https://github.com/MyCyberPlayground/my-cyber-playground-ctf/issues/new) | 📊 [View Recent Activity](recent-activity.md)*
+*🤖 Auto-updated every 30 minutes | 🚩 [Submit Flags](https://flags.mycyberplayground.xyz) | 📊 [View Recent Activity](recent-activity.md)*
