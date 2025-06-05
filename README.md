@@ -1,6 +1,6 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/5/2025, 9:11:59 AM UTC  
+**Last Updated:** 6/5/2025, 9:40:26 AM UTC  
 **Total Participants:** 1  
 **Active Categories:** 0  
 **All Challenges Active:** ✅ Simultaneously  
@@ -18,10 +18,10 @@
 ## 📈 Recent Activity (Last 10)
 
 - **akame** earned 850 points (2 flags) in binary-exploitation, reverse-engineering - *19h ago*
-- **akame** earned 2150 points (6 flags) in web-security - *19h ago*
-- **akame** earned 0 points (0 flags) in Unknown - *19h ago*
+- **akame** earned 2150 points (6 flags) in web-security - *20h ago*
 - **akame** earned 0 points (0 flags) in Unknown - *20h ago*
 - **akame** earned 0 points (0 flags) in Unknown - *20h ago*
+- **akame** earned 0 points (0 flags) in Unknown - *21h ago*
 
 ## 📊 Overall Statistics
 
