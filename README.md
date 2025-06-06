@@ -1,6 +1,6 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/6/2025, 12:19:32 PM UTC  
+**Last Updated:** 6/6/2025, 1:03:18 PM UTC  
 **Total Participants:** 2  
 **Active Categories:** 0  
 **All Challenges Active:** ✅ Simultaneously  
@@ -9,7 +9,7 @@
 
 | Rank | Player | Points | Flags | Specialization | Last Active |
 |------|--------|--------|-------|---------------|-------------|
-| 1 | **lucy** | 3675 | 8 | binary-exploitation | 3h ago |
+| 1 | **lucy** | 3675 | 8 | binary-exploitation | 4h ago |
 | 2 | **akame** | 3000 | 8 | web-security | 1d ago |
 
 ## 🎯 Categories
@@ -18,14 +18,14 @@
 
 ## 📈 Recent Activity (Last 10)
 
-- **lucy** earned 650 points (2 flags) in reverse-engineering - *3h ago*
-- **lucy** earned 2425 points (5 flags) in web-security, binary-exploitation - *3h ago*
-- **lucy** earned 600 points (1 flags) in reverse-engineering - *15h ago*
+- **lucy** earned 650 points (2 flags) in reverse-engineering - *4h ago*
+- **lucy** earned 2425 points (5 flags) in web-security, binary-exploitation - *4h ago*
+- **lucy** earned 600 points (1 flags) in reverse-engineering - *16h ago*
 - **akame** earned 850 points (2 flags) in binary-exploitation, reverse-engineering - *1d ago*
 - **akame** earned 2150 points (6 flags) in web-security - *1d ago*
 - **akame** earned 0 points (0 flags) in Unknown - *1d ago*
 - **akame** earned 0 points (0 flags) in Unknown - *1d ago*
-- **akame** earned 0 points (0 flags) in Unknown - *1d ago*
+- **akame** earned 0 points (0 flags) in Unknown - *2d ago*
 
 ## 📊 Overall Statistics
 
