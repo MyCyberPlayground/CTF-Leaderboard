@@ -1,10 +1,10 @@
 # 📈 Recent Activity
 
-**Last Updated:** 6/6/2025, 8:38:33 AM UTC
+**Last Updated:** 6/6/2025, 8:39:04 AM UTC
 
 ## 🔥 Latest Submissions
 
-### 1. lucy - *just now*
+### 1. lucy - *1m ago*
 - **Points Earned:** 650
 - **Flags Found:** 2
 - **Categories:** reverse-engineering 🎯 **Bonuses:** [object Object] 🩸 **First Blood:** [object Object], [object Object]
