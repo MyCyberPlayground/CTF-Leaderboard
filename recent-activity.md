@@ -1,6 +1,6 @@
 # 📈 Recent Activity
 
-**Last Updated:** 6/9/2025, 8:40:17 PM UTC
+**Last Updated:** 6/9/2025, 9:10:05 PM UTC
 
 ## 🔥 Latest Submissions
 
@@ -14,7 +14,7 @@
 - **Flags Found:** 5
 - **Categories:** web-security, binary-exploitation 🎯 **Bonuses:** [object Object], [object Object], [object Object] 🩸 **First Blood:** [object Object], [object Object], [object Object]
 
-### 3. lucy - *3d ago*
+### 3. lucy - *4d ago*
 - **Points Earned:** 600
 - **Flags Found:** 1
 - **Categories:** reverse-engineering
