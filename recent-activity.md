@@ -1,6 +1,6 @@
 # 📈 Recent Activity
 
-**Last Updated:** 6/11/2025, 1:48:13 PM UTC
+**Last Updated:** 6/11/2025, 2:09:58 PM UTC
 
 ## 🔥 Latest Submissions
 
@@ -19,7 +19,7 @@
 - **Flags Found:** 1
 - **Categories:** reverse-engineering
 
-### 4. akame - *6d ago*
+### 4. akame - *7d ago*
 - **Points Earned:** 850
 - **Flags Found:** 2
 - **Categories:** binary-exploitation, reverse-engineering 🩸 **First Blood:** [object Object], [object Object]
@@ -48,7 +48,7 @@
 
 - **Total Recent Submissions:** 8
 - **Active Participants (24h):** 0
-- **Active Participants (7d):** 2
+- **Active Participants (7d):** 1
 
 ---
 [← Back to Main Leaderboard](README.md)
