@@ -1,15 +1,18 @@
 # 📈 Recent Activity
 
-**Last Updated:** 6/12/2025, 3:30:19 PM UTC
+**Last Updated:** 6/12/2025, 3:30:20 PM UTC
 
 ## 🔥 Latest Submissions
 
-
+### 1. lucy - *just now*
+- **Points Earned:** 875
+- **Flags Found:** 5
+- **Categories:** web-security 🎯 **Bonuses:** [object Object] 🩸 **First Blood:** [object Object], [object Object], [object Object], [object Object], [object Object]
 
 ## 📊 Activity Statistics
 
-- **Total Recent Submissions:** 0
-- **Active Participants (24h):** 0
+- **Total Recent Submissions:** 1
+- **Active Participants (24h):** 1
 - **Active Participants (7d):** 1
 
 ---
