@@ -11,7 +11,7 @@
 
 | Rank | Player | Points | Flags | Last Active |
 |------|--------|--------|-------|-------------|
-| 1 | **lucy** | 825 | 5 | just now |
+| 1 | **lucy** | 825 | 5 | 1m ago |
 
 ## 🩸 First Bloods
 
@@ -31,7 +31,7 @@ No category masters yet.
 
 ## 📈 Recent Activity
 
-- **lucy** earned 825 points (5 flags) - *just now*
+- **lucy** earned 825 points (5 flags) - *1m ago*
 
 ---
 [← Back to Main Leaderboard](../README.md)
