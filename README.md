@@ -1,8 +1,8 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/12/2025, 2:43:03 PM UTC  
+**Last Updated:** 6/12/2025, 3:11:24 PM UTC  
 **Total Participants:** 0  
-**Active Categories:** 0  
+**Active Categories:** 1  
 **All Challenges Active:** ✅ Simultaneously  
 
 ## 🥇 Overall Top 10
@@ -13,7 +13,11 @@
 
 ## 🎯 Categories
 
-
+### 🌐 [Web Security](categories/web-security.md)
+- **Leader:** No participants yet
+- **Participants:** 0
+- **Challenges:** 5
+- **Total Flags:** 12
 
 ## 📈 Recent Activity (Last 10)
 
@@ -21,7 +25,7 @@
 
 ## 📊 Overall Statistics
 
-- **Total Flags Available:** 0
+- **Total Flags Available:** 12
 - **Total Submissions:** 0
 - **Average Score:** 0 points
 - **Highest Score:** 0 points
