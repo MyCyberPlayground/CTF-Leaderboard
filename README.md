@@ -1,7 +1,7 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/12/2025, 3:11:24 PM UTC  
-**Total Participants:** 0  
+**Last Updated:** 6/12/2025, 3:30:19 PM UTC  
+**Total Participants:** 1  
 **Active Categories:** 1  
 **All Challenges Active:** ✅ Simultaneously  
 
@@ -9,7 +9,7 @@
 
 | Rank | Player | Points | Flags | Specialization | Last Active |
 |------|--------|--------|-------|---------------|-------------|
-
+| 1 | **lucy** | 0 | 5 | Generalist | just now |
 
 ## 🎯 Categories
 
@@ -29,9 +29,9 @@
 - **Total Submissions:** 0
 - **Average Score:** 0 points
 - **Highest Score:** 0 points
-- **Overall Completion Rate:** 0%
+- **Overall Completion Rate:** 42%
 - **Active (24h):** 0 participants
-- **Active (7d):** 0 participants
+- **Active (7d):** 1 participants
 
 ---
 *🤖 Auto-updated every 30 minutes | 🚩 [Submit Flags](https://flags.mycyberplayground.xyz) | 📊 [View Recent Activity](recent-activity.md)*
