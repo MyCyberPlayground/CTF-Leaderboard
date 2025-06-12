@@ -1,6 +1,6 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 6/12/2025, 3:30:27 PM UTC  
+**Last Updated:** 6/12/2025, 3:30:56 PM UTC  
 **Total Participants:** 1  
 **Active Categories:** 1  
 **All Challenges Active:** ✅ Simultaneously  
@@ -9,7 +9,7 @@
 
 | Rank | Player | Points | Flags | Specialization | Last Active |
 |------|--------|--------|-------|---------------|-------------|
-| 1 | **lucy** | 875 | 5 | web-security | just now |
+| 1 | **lucy** | 875 | 5 | web-security | 1m ago |
 
 ## 🎯 Categories
 
@@ -21,7 +21,7 @@
 
 ## 📈 Recent Activity (Last 10)
 
-- **lucy** earned 875 points (5 flags) in web-security - *just now*
+- **lucy** earned 875 points (5 flags) in web-security - *1m ago*
 
 ## 📊 Overall Statistics
 
