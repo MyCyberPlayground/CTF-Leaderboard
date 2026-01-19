@@ -1,6 +1,6 @@
 # 🏆 CTF Leaderboard
 
-**Last Updated:** 1/19/2026, 8:49:59 PM UTC  
+**Last Updated:** 1/19/2026, 9:26:15 PM UTC  
 **Total Participants:** 0  
 **Active Categories:** 1  
 **All Challenges Active:** ✅ Simultaneously  
